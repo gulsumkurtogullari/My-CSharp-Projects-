@@ -16,7 +16,7 @@ switch (sayi)
 
         if (cekilenTutar <= bakiye)
         {
-            // Mantık düzeltildi: Bakiyeden çekilen tutar çıkarıldı
+            
             bakiye -= cekilenTutar;
             Console.WriteLine("İŞLEM BAŞARILI. KALAN BAKİYE: " + bakiye);
         }
@@ -29,7 +29,7 @@ switch (sayi)
     case "3":
         Console.WriteLine("YATIRMAK İSTEDİĞİNİZ TUTARI GİRİNİZ: ");
         int yatirilacakTutar = Convert.ToInt32(Console.ReadLine());
-        bakiye += yatirilacakTutar; // Bakiye güncellendi
+        bakiye += yatirilacakTutar; 
         Console.WriteLine("TOPLAM BAKİYENİZ: " + bakiye);
         break;
 
