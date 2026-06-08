@@ -1,0 +1,17 @@
+C:\Users\EXCALIBUR\OneDrive\Desktop\VS 2022 DOSYALAR\obs\obs\bin\Debug\net8.0-windows\obs.exe
+C:\Users\EXCALIBUR\OneDrive\Desktop\VS 2022 DOSYALAR\obs\obs\bin\Debug\net8.0-windows\obs.deps.json
+C:\Users\EXCALIBUR\OneDrive\Desktop\VS 2022 DOSYALAR\obs\obs\bin\Debug\net8.0-windows\obs.runtimeconfig.json
+C:\Users\EXCALIBUR\OneDrive\Desktop\VS 2022 DOSYALAR\obs\obs\bin\Debug\net8.0-windows\obs.dll
+C:\Users\EXCALIBUR\OneDrive\Desktop\VS 2022 DOSYALAR\obs\obs\bin\Debug\net8.0-windows\obs.pdb
+C:\Users\EXCALIBUR\OneDrive\Desktop\VS 2022 DOSYALAR\obs\obs\obj\Debug\net8.0-windows\obs.Form1.resources
+C:\Users\EXCALIBUR\OneDrive\Desktop\VS 2022 DOSYALAR\obs\obs\obj\Debug\net8.0-windows\obs.Properties.Resources.resources
+C:\Users\EXCALIBUR\OneDrive\Desktop\VS 2022 DOSYALAR\obs\obs\obj\Debug\net8.0-windows\obs.csproj.GenerateResource.cache
+C:\Users\EXCALIBUR\OneDrive\Desktop\VS 2022 DOSYALAR\obs\obs\obj\Debug\net8.0-windows\obs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\OneDrive\Desktop\VS 2022 DOSYALAR\obs\obs\obj\Debug\net8.0-windows\obs.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\OneDrive\Desktop\VS 2022 DOSYALAR\obs\obs\obj\Debug\net8.0-windows\obs.AssemblyInfo.cs
+C:\Users\EXCALIBUR\OneDrive\Desktop\VS 2022 DOSYALAR\obs\obs\obj\Debug\net8.0-windows\obs.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\OneDrive\Desktop\VS 2022 DOSYALAR\obs\obs\obj\Debug\net8.0-windows\obs.dll
+C:\Users\EXCALIBUR\OneDrive\Desktop\VS 2022 DOSYALAR\obs\obs\obj\Debug\net8.0-windows\refint\obs.dll
+C:\Users\EXCALIBUR\OneDrive\Desktop\VS 2022 DOSYALAR\obs\obs\obj\Debug\net8.0-windows\obs.pdb
+C:\Users\EXCALIBUR\OneDrive\Desktop\VS 2022 DOSYALAR\obs\obs\obj\Debug\net8.0-windows\obs.genruntimeconfig.cache
+C:\Users\EXCALIBUR\OneDrive\Desktop\VS 2022 DOSYALAR\obs\obs\obj\Debug\net8.0-windows\ref\obs.dll
