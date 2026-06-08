@@ -1,0 +1,32 @@
+int hakSayisi = 3;
+
+while(true)
+{
+    Console.WriteLine("KULLANICI ADI GİRİNİZ: ");
+    string kullaniciAdi = Console.ReadLine();
+
+
+    Console.WriteLine("ŞİFRE GİRİNİZ: ");
+    string sifre = Console.ReadLine();
+
+
+    if (kullaniciAdi == "gulsumkurtogullari" && sifre == "1453")
+    {
+        Console.WriteLine("TEBRİKLER BAŞARILI BİR ŞEKİLDE GİRİŞ YAPTINIZ");
+        break;
+    }
+    else
+    {
+        Console.WriteLine("GİRDİĞİNİZ BİLGİLERİN TAMAMI DOĞRU DEĞİL.");
+    }
+    if (hakSayisi>0)
+    {
+        hakSayisi -= 1;
+    }
+    if (hakSayisi == 0)
+    {
+        Console.WriteLine("GİRİŞ HAKKINIZ DOLMUŞTUR.");
+        break;
+    }
+    Console.ReadLine();
+}
