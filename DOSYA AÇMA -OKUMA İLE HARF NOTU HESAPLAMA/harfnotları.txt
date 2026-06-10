@@ -1,0 +1,5 @@
+Ali; BB
+Ayşe; AA
+Mehmet; FF
+Fatma; BB
+Azra; AA

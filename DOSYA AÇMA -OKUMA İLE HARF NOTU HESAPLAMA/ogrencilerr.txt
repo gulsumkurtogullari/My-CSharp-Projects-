@@ -1,0 +1,5 @@
+Ali;70
+Ayşe;90
+Mehmet;45
+Fatma;82
+Azra;90
